@@ -19,7 +19,7 @@ No duplicates. No conflicts. Works with **any theme** (Kadence, Astra, GenerateP
 
 ## Installation
 
-1. Download [`code-dark-copy.zip`](code-dark-copy.zip)  
+1. Download code-dark-copy.php
 2. Go to **WordPress → Plugins → Add New → Upload**  
 3. Activate  
 4. Done!  
